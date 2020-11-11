@@ -3,6 +3,8 @@
 Example shows a simple ping/pong http server using actix framework.
 Tests contain actor unit test for web route handler.
 
+More explanation in his [blogpost](https://amarjanica.com/mocking-actix-actor-without-getting-a-gray-hair/)
+
 ## Running the app 
 ```cargo run```  
   
